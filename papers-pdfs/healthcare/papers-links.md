@@ -1,1 +1,0 @@
-1. [CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines](https://arxiv.org/pdf/2402.04400)
