@@ -114,6 +114,11 @@
 ### Results
 Read from paper for better understanding
 
+#### Evaluation metrices
+- perplexity (PPL)
+- content perplexity (CPL)
+- content meteor (CM)
+
 ### Reference
 
 ```bibtex
