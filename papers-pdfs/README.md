@@ -2,6 +2,7 @@
 
 ### healthcare
 1. [CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines](https://arxiv.org/pdf/2402.04400)
+2. [Learning the natural history of human disease with generative transformers](https://www.medrxiv.org/content/10.1101/2024.06.07.24308553v1.full.pdf)
 
 
 ### computer-vision
